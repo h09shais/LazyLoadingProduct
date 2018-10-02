@@ -1,0 +1,9 @@
+.vs/
+BLL/bin/
+BLL/obj/
+DAL/bin/
+DAL/obj/
+Entities/bin/
+Entities/obj/
+LazyLoadingProduct/bin/
+LazyLoadingProduct/obj/
